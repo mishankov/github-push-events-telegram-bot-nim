@@ -1,4 +1,4 @@
-import httpclient, json, strutils
+import httpclient, json
 
 const telegramBaseUrl: string = "https://api.telegram.org/bot"
 
